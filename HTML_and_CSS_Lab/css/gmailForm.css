@@ -3,6 +3,15 @@ body {
 
 }
 
+
+/*
+* highlighting the background as it is very dark
+*/
+h1 {
+    background-color: lightblue;
+    padding: 3px;
+}
+
 video {
     position: obsolute;
     top: 50%;
